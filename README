@@ -1,0 +1,5 @@
+For when evil is needed: a snippet to remember how to convert latex to
+Microsoft Word format.  Best so far is the oolatex command in the
+tex4ht package, which produces an ODT file that can be loaded into
+ooffice, which can write in various common document formats.  I've
+heard there is also a module to load ODT directly into Microsoft Word.
